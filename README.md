@@ -4,20 +4,14 @@
 Blackiston, Michael Levin, Joshua Bongard
 
 ## Abstract
-We show that prediction surprise — the per-organoid motion
-prediction error of a population-trained video prediction model —
-recovers the dominant axis of motility variation directly from raw
-video, without segmentation, tracking, or predefined feature
-selection. Prediction surprise agrees strongly with the ranking
-produced by the most reliable classical motility feature
-(Spearman ρ = 0.90).
+Artificial Life investigators are interested in new forms of life. One route to achieve this is to reconfigure existing life forms, such as organoids. Motile organoids are of particular interest as they demonstrate that cellular coordination can arise within novel multicellular configurations — or survive reconfigurations — conferring, among other things, non-random motion upon the organoid as a whole. However, characterizing the diversity of behavior within such constructs is challenging. Current approaches require several manual steps, including feature engineering. Whether reliable motility differences across organoids can be recovered without presupposing features remains an open question. Here we show that an automated method can indeed discover features that most reliably distinguish organoids in their motility, directly from videos, as evidenced by agreement with the classical pipeline’s discovered features. The video prediction model driving the method generalizes to unseen organoid videos, establishing that organoid motility dynamics share common structure. Our approach thus enables scalable exploration of behavioral diversity across large video collections of motile organoids or other synthetic constructs, with little manual effort and without presupposing what to look for. 
 
 ## Videos
 - [Full dataset (n=108 organoids)](https://youtu.be/hxe1TLXr0_4)
 - [Tracking validation](https://youtu.be/xisRaTP1HE0)
 
 ## Code
-Code and data will be released upon acceptance.
+Code and data will be released post review process.
 
 ## Contact
 Krishna.Kannan-Srinivasan@uvm.edu
