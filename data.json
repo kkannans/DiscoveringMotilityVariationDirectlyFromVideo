@@ -1,0 +1,1085 @@
+{
+ "n": 108,
+ "organoids": [
+  {
+   "batch": "batch-000130",
+   "seed": 1,
+   "surprise": 1.7012007447192445e-05,
+   "rank": 1,
+   "percentile": 1,
+   "mean_speed": 0.1534141397542416,
+   "size_px": 216.5,
+   "clip": "clips/batch-000130.mp4"
+  },
+  {
+   "batch": "batch-000343",
+   "seed": 9,
+   "surprise": 1.748816248436924e-05,
+   "rank": 2,
+   "percentile": 2,
+   "mean_speed": 0.1563003129657525,
+   "size_px": 212.0,
+   "clip": "clips/batch-000343.mp4"
+  },
+  {
+   "batch": "batch-000296",
+   "seed": 5,
+   "surprise": 1.7735063011059538e-05,
+   "rank": 3,
+   "percentile": 3,
+   "mean_speed": 0.2281002734910867,
+   "size_px": 138.5,
+   "clip": "clips/batch-000296.mp4"
+  },
+  {
+   "batch": "batch-000341",
+   "seed": 8,
+   "surprise": 1.868531580839772e-05,
+   "rank": 4,
+   "percentile": 4,
+   "mean_speed": 0.0634968906349371,
+   "size_px": 221.5,
+   "clip": "clips/batch-000341.mp4"
+  },
+  {
+   "batch": "batch-000129",
+   "seed": 9,
+   "surprise": 1.872761095000897e-05,
+   "rank": 5,
+   "percentile": 5,
+   "mean_speed": 0.0452118041502623,
+   "size_px": 199.5,
+   "clip": "clips/batch-000129.mp4"
+  },
+  {
+   "batch": "batch-000280",
+   "seed": 9,
+   "surprise": 1.8933544197352603e-05,
+   "rank": 6,
+   "percentile": 6,
+   "mean_speed": 0.1329539444146823,
+   "size_px": 149.0,
+   "clip": "clips/batch-000280.mp4"
+  },
+  {
+   "batch": "batch-000298",
+   "seed": 10,
+   "surprise": 1.914986751216929e-05,
+   "rank": 7,
+   "percentile": 6,
+   "mean_speed": 0.0528837823973106,
+   "size_px": 115.0,
+   "clip": "clips/batch-000298.mp4"
+  },
+  {
+   "batch": "batch-000289",
+   "seed": 7,
+   "surprise": 1.9636208890005943e-05,
+   "rank": 8,
+   "percentile": 7,
+   "mean_speed": 0.0844133802150018,
+   "size_px": 110.5,
+   "clip": "clips/batch-000289.mp4"
+  },
+  {
+   "batch": "batch-000324",
+   "seed": 6,
+   "surprise": 2.021368163696025e-05,
+   "rank": 9,
+   "percentile": 8,
+   "mean_speed": 0.4324656285062876,
+   "size_px": 114.0,
+   "clip": "clips/batch-000324.mp4"
+  },
+  {
+   "batch": "batch-000149",
+   "seed": 10,
+   "surprise": 2.0256900825188492e-05,
+   "rank": 10,
+   "percentile": 9,
+   "mean_speed": 0.0517925915750225,
+   "size_px": 266.0,
+   "clip": "clips/batch-000149.mp4"
+  },
+  {
+   "batch": "batch-000272",
+   "seed": 3,
+   "surprise": 2.1472334992722608e-05,
+   "rank": 11,
+   "percentile": 10,
+   "mean_speed": 0.0512520642457953,
+   "size_px": 249.0,
+   "clip": "clips/batch-000272.mp4"
+  },
+  {
+   "batch": "batch-000083",
+   "seed": 3,
+   "surprise": 2.1823614588356577e-05,
+   "rank": 12,
+   "percentile": 11,
+   "mean_speed": 0.0787194945607008,
+   "size_px": 383.5,
+   "clip": "clips/batch-000083.mp4"
+  },
+  {
+   "batch": "batch-000264",
+   "seed": 5,
+   "surprise": 2.261000372527633e-05,
+   "rank": 13,
+   "percentile": 12,
+   "mean_speed": 0.0831722198790562,
+   "size_px": 164.0,
+   "clip": "clips/batch-000264.mp4"
+  },
+  {
+   "batch": "batch-000300",
+   "seed": 2,
+   "surprise": 2.294847035955172e-05,
+   "rank": 14,
+   "percentile": 13,
+   "mean_speed": 0.1022292053524629,
+   "size_px": 122.5,
+   "clip": "clips/batch-000300.mp4"
+  },
+  {
+   "batch": "batch-000349",
+   "seed": 4,
+   "surprise": 2.356110962864477e-05,
+   "rank": 15,
+   "percentile": 14,
+   "mean_speed": 0.43845902837424,
+   "size_px": 155.5,
+   "clip": "clips/batch-000349.mp4"
+  },
+  {
+   "batch": "batch-000262",
+   "seed": 10,
+   "surprise": 2.4048253180808388e-05,
+   "rank": 16,
+   "percentile": 15,
+   "mean_speed": 0.0910749638747624,
+   "size_px": 203.5,
+   "clip": "clips/batch-000262.mp4"
+  },
+  {
+   "batch": "batch-000347",
+   "seed": 5,
+   "surprise": 2.433006557112094e-05,
+   "rank": 17,
+   "percentile": 16,
+   "mean_speed": 0.8326549724201111,
+   "size_px": 252.5,
+   "clip": "clips/batch-000347.mp4"
+  },
+  {
+   "batch": "batch-000345",
+   "seed": 8,
+   "surprise": 2.43695449171355e-05,
+   "rank": 18,
+   "percentile": 17,
+   "mean_speed": 0.1498909010398549,
+   "size_px": 210.5,
+   "clip": "clips/batch-000345.mp4"
+  },
+  {
+   "batch": "batch-000270",
+   "seed": 5,
+   "surprise": 2.5168355932692062e-05,
+   "rank": 19,
+   "percentile": 18,
+   "mean_speed": 0.0920501015327223,
+   "size_px": 103.5,
+   "clip": "clips/batch-000270.mp4"
+  },
+  {
+   "batch": "batch-000274",
+   "seed": 8,
+   "surprise": 2.536439205869101e-05,
+   "rank": 20,
+   "percentile": 19,
+   "mean_speed": 0.1458546963088288,
+   "size_px": 149.5,
+   "clip": "clips/batch-000274.mp4"
+  },
+  {
+   "batch": "batch-000112",
+   "seed": 9,
+   "surprise": 2.630144081194885e-05,
+   "rank": 21,
+   "percentile": 19,
+   "mean_speed": 0.0383100469557352,
+   "size_px": 280.5,
+   "clip": "clips/batch-000112.mp4"
+  },
+  {
+   "batch": "batch-000237",
+   "seed": 4,
+   "surprise": 2.711051274673082e-05,
+   "rank": 22,
+   "percentile": 20,
+   "mean_speed": 0.0681332786575795,
+   "size_px": 212.0,
+   "clip": "clips/batch-000237.mp4"
+  },
+  {
+   "batch": "batch-000116",
+   "seed": 10,
+   "surprise": 2.847030191333033e-05,
+   "rank": 23,
+   "percentile": 21,
+   "mean_speed": 0.1005165438043356,
+   "size_px": 310.0,
+   "clip": "clips/batch-000116.mp4"
+  },
+  {
+   "batch": "batch-000344",
+   "seed": 1,
+   "surprise": 2.8535585443023592e-05,
+   "rank": 24,
+   "percentile": 22,
+   "mean_speed": 0.1249098975832656,
+   "size_px": 149.0,
+   "clip": "clips/batch-000344.mp4"
+  },
+  {
+   "batch": "batch-000265",
+   "seed": 2,
+   "surprise": 2.862949258997105e-05,
+   "rank": 25,
+   "percentile": 23,
+   "mean_speed": 0.1902415830050352,
+   "size_px": 202.75,
+   "clip": "clips/batch-000265.mp4"
+  },
+  {
+   "batch": "batch-000268",
+   "seed": 8,
+   "surprise": 2.948308974737301e-05,
+   "rank": 26,
+   "percentile": 24,
+   "mean_speed": 0.2762046441086641,
+   "size_px": 210.5,
+   "clip": "clips/batch-000268.mp4"
+  },
+  {
+   "batch": "batch-000338",
+   "seed": 6,
+   "surprise": 3.158304753014818e-05,
+   "rank": 27,
+   "percentile": 25,
+   "mean_speed": 0.0789932436006985,
+   "size_px": 111.0,
+   "clip": "clips/batch-000338.mp4"
+  },
+  {
+   "batch": "batch-000278",
+   "seed": 2,
+   "surprise": 3.165371163049713e-05,
+   "rank": 28,
+   "percentile": 26,
+   "mean_speed": 1.1797179296260771,
+   "size_px": 248.75,
+   "clip": "clips/batch-000278.mp4"
+  },
+  {
+   "batch": "batch-000235",
+   "seed": 9,
+   "surprise": 3.1890875106910244e-05,
+   "rank": 29,
+   "percentile": 27,
+   "mean_speed": 0.1809404481620952,
+   "size_px": 167.0,
+   "clip": "clips/batch-000235.mp4"
+  },
+  {
+   "batch": "batch-000180",
+   "seed": 9,
+   "surprise": 3.252740134485066e-05,
+   "rank": 30,
+   "percentile": 28,
+   "mean_speed": 0.0732732406618616,
+   "size_px": 204.5,
+   "clip": "clips/batch-000180.mp4"
+  },
+  {
+   "batch": "batch-000113",
+   "seed": 2,
+   "surprise": 3.26164772559423e-05,
+   "rank": 31,
+   "percentile": 29,
+   "mean_speed": 0.0594431373673924,
+   "size_px": 337.5,
+   "clip": "clips/batch-000113.mp4"
+  },
+  {
+   "batch": "batch-000175",
+   "seed": 10,
+   "surprise": 3.2841937354533e-05,
+   "rank": 32,
+   "percentile": 30,
+   "mean_speed": 0.1841000165866249,
+   "size_px": 335.5,
+   "clip": "clips/batch-000175.mp4"
+  },
+  {
+   "batch": "batch-000104",
+   "seed": 8,
+   "surprise": 3.403659866307862e-05,
+   "rank": 33,
+   "percentile": 31,
+   "mean_speed": 0.0696296811579275,
+   "size_px": 275.0,
+   "clip": "clips/batch-000104.mp4"
+  },
+  {
+   "batch": "batch-000328",
+   "seed": 4,
+   "surprise": 3.4551965654827654e-05,
+   "rank": 34,
+   "percentile": 31,
+   "mean_speed": 0.4837269706408795,
+   "size_px": 234.5,
+   "clip": "clips/batch-000328.mp4"
+  },
+  {
+   "batch": "batch-000233",
+   "seed": 6,
+   "surprise": 3.525490319589153e-05,
+   "rank": 35,
+   "percentile": 32,
+   "mean_speed": 0.6809733336892327,
+   "size_px": 88.0,
+   "clip": "clips/batch-000233.mp4"
+  },
+  {
+   "batch": "batch-000177",
+   "seed": 4,
+   "surprise": 3.620087227318436e-05,
+   "rank": 36,
+   "percentile": 33,
+   "mean_speed": 0.0438000494324697,
+   "size_px": 221.5,
+   "clip": "clips/batch-000177.mp4"
+  },
+  {
+   "batch": "batch-000286",
+   "seed": 4,
+   "surprise": 3.820655547315255e-05,
+   "rank": 37,
+   "percentile": 34,
+   "mean_speed": 0.8802457199444634,
+   "size_px": 107.5,
+   "clip": "clips/batch-000286.mp4"
+  },
+  {
+   "batch": "batch-000247",
+   "seed": 5,
+   "surprise": 4.028681360068731e-05,
+   "rank": 38,
+   "percentile": 35,
+   "mean_speed": 0.1250617590306795,
+   "size_px": 154.5,
+   "clip": "clips/batch-000247.mp4"
+  },
+  {
+   "batch": "batch-000245",
+   "seed": 3,
+   "surprise": 4.590848402585834e-05,
+   "rank": 39,
+   "percentile": 36,
+   "mean_speed": 0.864941263511165,
+   "size_px": 105.5,
+   "clip": "clips/batch-000245.mp4"
+  },
+  {
+   "batch": "batch-000309",
+   "seed": 7,
+   "surprise": 4.793703556060791e-05,
+   "rank": 40,
+   "percentile": 37,
+   "mean_speed": 0.7010939587610835,
+   "size_px": 231.0,
+   "clip": "clips/batch-000309.mp4"
+  },
+  {
+   "batch": "batch-000277",
+   "seed": 6,
+   "surprise": 4.856268787989393e-05,
+   "rank": 41,
+   "percentile": 38,
+   "mean_speed": 0.8526616442047302,
+   "size_px": 103.5,
+   "clip": "clips/batch-000277.mp4"
+  },
+  {
+   "batch": "batch-000330",
+   "seed": 8,
+   "surprise": 4.948131754645146e-05,
+   "rank": 42,
+   "percentile": 39,
+   "mean_speed": 1.001471021537001,
+   "size_px": 213.5,
+   "clip": "clips/batch-000330.mp4"
+  },
+  {
+   "batch": "batch-000336",
+   "seed": 2,
+   "surprise": 4.962936873198487e-05,
+   "rank": 43,
+   "percentile": 40,
+   "mean_speed": 0.8012926426327238,
+   "size_px": 88.0,
+   "clip": "clips/batch-000336.mp4"
+  },
+  {
+   "batch": "batch-000250",
+   "seed": 4,
+   "surprise": 5.154565224074759e-05,
+   "rank": 44,
+   "percentile": 41,
+   "mean_speed": 1.1070345655142444,
+   "size_px": 64.0,
+   "clip": "clips/batch-000250.mp4"
+  },
+  {
+   "batch": "batch-000243",
+   "seed": 5,
+   "surprise": 5.415581472334452e-05,
+   "rank": 45,
+   "percentile": 42,
+   "mean_speed": 1.265310904091324,
+   "size_px": 202.0,
+   "clip": "clips/batch-000243.mp4"
+  },
+  {
+   "batch": "batch-000075",
+   "seed": 2,
+   "surprise": 5.420171146397479e-05,
+   "rank": 46,
+   "percentile": 43,
+   "mean_speed": 0.0737633918946685,
+   "size_px": 103.5,
+   "clip": "clips/batch-000075.mp4"
+  },
+  {
+   "batch": "batch-000094",
+   "seed": 7,
+   "surprise": 5.473380952025764e-05,
+   "rank": 47,
+   "percentile": 44,
+   "mean_speed": 1.476541478793126,
+   "size_px": 105.5,
+   "clip": "clips/batch-000094.mp4"
+  },
+  {
+   "batch": "batch-000334",
+   "seed": 4,
+   "surprise": 5.518423859030008e-05,
+   "rank": 48,
+   "percentile": 44,
+   "mean_speed": 2.267673436365364,
+   "size_px": 209.0,
+   "clip": "clips/batch-000334.mp4"
+  },
+  {
+   "batch": "batch-000282",
+   "seed": 5,
+   "surprise": 6.18235717411153e-05,
+   "rank": 49,
+   "percentile": 45,
+   "mean_speed": 1.8054055141693828,
+   "size_px": 139.0,
+   "clip": "clips/batch-000282.mp4"
+  },
+  {
+   "batch": "batch-000299",
+   "seed": 3,
+   "surprise": 6.990545807639137e-05,
+   "rank": 50,
+   "percentile": 46,
+   "mean_speed": 1.754124731312972,
+   "size_px": 120.0,
+   "clip": "clips/batch-000299.mp4"
+  },
+  {
+   "batch": "batch-000269",
+   "seed": 7,
+   "surprise": 7.001126505201682e-05,
+   "rank": 51,
+   "percentile": 47,
+   "mean_speed": 1.1195599955776734,
+   "size_px": 153.0,
+   "clip": "clips/batch-000269.mp4"
+  },
+  {
+   "batch": "batch-000293",
+   "seed": 7,
+   "surprise": 7.12141118128784e-05,
+   "rank": 52,
+   "percentile": 48,
+   "mean_speed": 0.8317102487578586,
+   "size_px": 199.5,
+   "clip": "clips/batch-000293.mp4"
+  },
+  {
+   "batch": "batch-000302",
+   "seed": 3,
+   "surprise": 8.47232440719381e-05,
+   "rank": 53,
+   "percentile": 49,
+   "mean_speed": 2.528282061485407,
+   "size_px": 45.0,
+   "clip": "clips/batch-000302.mp4"
+  },
+  {
+   "batch": "batch-000279",
+   "seed": 3,
+   "surprise": 8.91825693543069e-05,
+   "rank": 54,
+   "percentile": 50,
+   "mean_speed": 2.3338104912640265,
+   "size_px": 254.0,
+   "clip": "clips/batch-000279.mp4"
+  },
+  {
+   "batch": "batch-000295",
+   "seed": 7,
+   "surprise": 0.0001063214003806,
+   "rank": 55,
+   "percentile": 51,
+   "mean_speed": 4.187915920919878,
+   "size_px": 83.0,
+   "clip": "clips/batch-000295.mp4"
+  },
+  {
+   "batch": "batch-000323",
+   "seed": 8,
+   "surprise": 0.0001135196216637,
+   "rank": 56,
+   "percentile": 52,
+   "mean_speed": 1.897388480461475,
+   "size_px": 108.0,
+   "clip": "clips/batch-000323.mp4"
+  },
+  {
+   "batch": "batch-000294",
+   "seed": 2,
+   "surprise": 0.0001141747052315,
+   "rank": 57,
+   "percentile": 53,
+   "mean_speed": 1.4910933535573738,
+   "size_px": 249.5,
+   "clip": "clips/batch-000294.mp4"
+  },
+  {
+   "batch": "batch-000100",
+   "seed": 9,
+   "surprise": 0.000121880104416,
+   "rank": 58,
+   "percentile": 54,
+   "mean_speed": 1.1356323028844877,
+   "size_px": 241.5,
+   "clip": "clips/batch-000100.mp4"
+  },
+  {
+   "batch": "batch-000082",
+   "seed": 10,
+   "surprise": 0.0001237677206518,
+   "rank": 59,
+   "percentile": 55,
+   "mean_speed": 1.0403298784739825,
+   "size_px": 288.5,
+   "clip": "clips/batch-000082.mp4"
+  },
+  {
+   "batch": "batch-000092",
+   "seed": 8,
+   "surprise": 0.0001283575111301,
+   "rank": 60,
+   "percentile": 56,
+   "mean_speed": 2.019029697891921,
+   "size_px": 108.0,
+   "clip": "clips/batch-000092.mp4"
+  },
+  {
+   "batch": "batch-000135",
+   "seed": 4,
+   "surprise": 0.0001287562045035,
+   "rank": 61,
+   "percentile": 56,
+   "mean_speed": 6.92373552593198,
+   "size_px": 137.0,
+   "clip": "clips/batch-000135.mp4"
+  },
+  {
+   "batch": "batch-000114",
+   "seed": 5,
+   "surprise": 0.0001306690246565,
+   "rank": 62,
+   "percentile": 57,
+   "mean_speed": 0.7514245650288071,
+   "size_px": 215.0,
+   "clip": "clips/batch-000114.mp4"
+  },
+  {
+   "batch": "batch-000291",
+   "seed": 10,
+   "surprise": 0.0001321543386438,
+   "rank": 63,
+   "percentile": 58,
+   "mean_speed": 1.5827477765727966,
+   "size_px": 115.0,
+   "clip": "clips/batch-000291.mp4"
+  },
+  {
+   "batch": "batch-000230",
+   "seed": 1,
+   "surprise": 0.000149724422954,
+   "rank": 64,
+   "percentile": 59,
+   "mean_speed": 1.6295094013375888,
+   "size_px": 206.0,
+   "clip": "clips/batch-000230.mp4"
+  },
+  {
+   "batch": "batch-000133",
+   "seed": 6,
+   "surprise": 0.0001598516391823,
+   "rank": 65,
+   "percentile": 60,
+   "mean_speed": 0.7327876174963015,
+   "size_px": 275.0,
+   "clip": "clips/batch-000133.mp4"
+  },
+  {
+   "batch": "batch-000193",
+   "seed": 2,
+   "surprise": 0.0001650738558964,
+   "rank": 66,
+   "percentile": 61,
+   "mean_speed": 1.437615329574359,
+   "size_px": 204.0,
+   "clip": "clips/batch-000193.mp4"
+  },
+  {
+   "batch": "batch-000259",
+   "seed": 1,
+   "surprise": 0.0001675596286077,
+   "rank": 67,
+   "percentile": 62,
+   "mean_speed": 1.247518322180161,
+   "size_px": 112.5,
+   "clip": "clips/batch-000259.mp4"
+  },
+  {
+   "batch": "batch-000226",
+   "seed": 9,
+   "surprise": 0.0001744473411235,
+   "rank": 68,
+   "percentile": 63,
+   "mean_speed": 1.973745457773088,
+   "size_px": 153.0,
+   "clip": "clips/batch-000226.mp4"
+  },
+  {
+   "batch": "batch-000257",
+   "seed": 6,
+   "surprise": 0.000185470256838,
+   "rank": 69,
+   "percentile": 64,
+   "mean_speed": 1.629991070387128,
+   "size_px": 236.75,
+   "clip": "clips/batch-000257.mp4"
+  },
+  {
+   "batch": "batch-000085",
+   "seed": 8,
+   "surprise": 0.000191236496903,
+   "rank": 70,
+   "percentile": 65,
+   "mean_speed": 3.083792973724773,
+   "size_px": 125.75,
+   "clip": "clips/batch-000085.mp4"
+  },
+  {
+   "batch": "batch-000090",
+   "seed": 10,
+   "surprise": 0.0001915920729516,
+   "rank": 71,
+   "percentile": 66,
+   "mean_speed": 2.692222356040359,
+   "size_px": 118.0,
+   "clip": "clips/batch-000090.mp4"
+  },
+  {
+   "batch": "batch-000252",
+   "seed": 1,
+   "surprise": 0.0001944138348335,
+   "rank": 72,
+   "percentile": 67,
+   "mean_speed": 13.131946952832328,
+   "size_px": 109.5,
+   "clip": "clips/batch-000252.mp4"
+  },
+  {
+   "batch": "batch-000123",
+   "seed": 4,
+   "surprise": 0.0002086155000142,
+   "rank": 73,
+   "percentile": 68,
+   "mean_speed": 4.0883366494807465,
+   "size_px": 128.5,
+   "clip": "clips/batch-000123.mp4"
+  },
+  {
+   "batch": "batch-000325",
+   "seed": 7,
+   "surprise": 0.0002432466717436,
+   "rank": 74,
+   "percentile": 69,
+   "mean_speed": 3.104202393346133,
+   "size_px": 62.0,
+   "clip": "clips/batch-000325.mp4"
+  },
+  {
+   "batch": "batch-000073",
+   "seed": 2,
+   "surprise": 0.0002453500346746,
+   "rank": 75,
+   "percentile": 69,
+   "mean_speed": 1.2368353765146065,
+   "size_px": 216.5,
+   "clip": "clips/batch-000073.mp4"
+  },
+  {
+   "batch": "batch-000152",
+   "seed": 3,
+   "surprise": 0.0002561803848948,
+   "rank": 76,
+   "percentile": 70,
+   "mean_speed": 2.1937232202906483,
+   "size_px": 286.5,
+   "clip": "clips/batch-000152.mp4"
+  },
+  {
+   "batch": "batch-000069",
+   "seed": 4,
+   "surprise": 0.0002636126882862,
+   "rank": 77,
+   "percentile": 71,
+   "mean_speed": 3.3618188556953528,
+   "size_px": 274.25,
+   "clip": "clips/batch-000069.mp4"
+  },
+  {
+   "batch": "batch-000102",
+   "seed": 3,
+   "surprise": 0.0002858537191059,
+   "rank": 78,
+   "percentile": 72,
+   "mean_speed": 1.4451512915404725,
+   "size_px": 274.5,
+   "clip": "clips/batch-000102.mp4"
+  },
+  {
+   "batch": "batch-000166",
+   "seed": 1,
+   "surprise": 0.0002910309412982,
+   "rank": 79,
+   "percentile": 73,
+   "mean_speed": 3.1988801093558674,
+   "size_px": 225.5,
+   "clip": "clips/batch-000166.mp4"
+  },
+  {
+   "batch": "batch-000131",
+   "seed": 3,
+   "surprise": 0.0002970809873659,
+   "rank": 80,
+   "percentile": 74,
+   "mean_speed": 2.5426661183761423,
+   "size_px": 137.0,
+   "clip": "clips/batch-000131.mp4"
+  },
+  {
+   "batch": "batch-000242",
+   "seed": 1,
+   "surprise": 0.0003069616213906,
+   "rank": 81,
+   "percentile": 75,
+   "mean_speed": 3.2702483536776694,
+   "size_px": 91.0,
+   "clip": "clips/batch-000242.mp4"
+  },
+  {
+   "batch": "batch-000084",
+   "seed": 7,
+   "surprise": 0.0003403499140404,
+   "rank": 82,
+   "percentile": 76,
+   "mean_speed": 2.6170100853763176,
+   "size_px": 235.5,
+   "clip": "clips/batch-000084.mp4"
+  },
+  {
+   "batch": "batch-000109",
+   "seed": 8,
+   "surprise": 0.0003418083069846,
+   "rank": 83,
+   "percentile": 77,
+   "mean_speed": 9.621039384979651,
+   "size_px": 228.5,
+   "clip": "clips/batch-000109.mp4"
+  },
+  {
+   "batch": "batch-000148",
+   "seed": 1,
+   "surprise": 0.0003493955300655,
+   "rank": 84,
+   "percentile": 78,
+   "mean_speed": 2.79171766382496,
+   "size_px": 350.75,
+   "clip": "clips/batch-000148.mp4"
+  },
+  {
+   "batch": "batch-000093",
+   "seed": 2,
+   "surprise": 0.0003591055574361,
+   "rank": 85,
+   "percentile": 79,
+   "mean_speed": 6.279956692064911,
+   "size_px": 90.0,
+   "clip": "clips/batch-000093.mp4"
+  },
+  {
+   "batch": "batch-000153",
+   "seed": 9,
+   "surprise": 0.0003622983640525,
+   "rank": 86,
+   "percentile": 80,
+   "mean_speed": 2.262746724241824,
+   "size_px": 410.5,
+   "clip": "clips/batch-000153.mp4"
+  },
+  {
+   "batch": "batch-000091",
+   "seed": 6,
+   "surprise": 0.0003940116148442,
+   "rank": 87,
+   "percentile": 81,
+   "mean_speed": 7.814727882290067,
+   "size_px": 212.0,
+   "clip": "clips/batch-000091.mp4"
+  },
+  {
+   "batch": "batch-000159",
+   "seed": 6,
+   "surprise": 0.0004108681459911,
+   "rank": 88,
+   "percentile": 81,
+   "mean_speed": 4.77214198830671,
+   "size_px": 107.0,
+   "clip": "clips/batch-000159.mp4"
+  },
+  {
+   "batch": "batch-000223",
+   "seed": 1,
+   "surprise": 0.0004233968793414,
+   "rank": 89,
+   "percentile": 82,
+   "mean_speed": 4.330465294242554,
+   "size_px": 198.0,
+   "clip": "clips/batch-000223.mp4"
+  },
+  {
+   "batch": "batch-000333",
+   "seed": 6,
+   "surprise": 0.0004261193971615,
+   "rank": 90,
+   "percentile": 83,
+   "mean_speed": 3.9779587429251664,
+   "size_px": 110.0,
+   "clip": "clips/batch-000333.mp4"
+  },
+  {
+   "batch": "batch-000072",
+   "seed": 5,
+   "surprise": 0.0004543174291029,
+   "rank": 91,
+   "percentile": 84,
+   "mean_speed": 11.692172344871327,
+   "size_px": 225.0,
+   "clip": "clips/batch-000072.mp4"
+  },
+  {
+   "batch": "batch-000163",
+   "seed": 7,
+   "surprise": 0.0004673699149861,
+   "rank": 92,
+   "percentile": 85,
+   "mean_speed": 3.4615601277894905,
+   "size_px": 208.25,
+   "clip": "clips/batch-000163.mp4"
+  },
+  {
+   "batch": "batch-000156",
+   "seed": 5,
+   "surprise": 0.0004773362888954,
+   "rank": 93,
+   "percentile": 86,
+   "mean_speed": 3.2527870549761744,
+   "size_px": 291.0,
+   "clip": "clips/batch-000156.mp4"
+  },
+  {
+   "batch": "batch-000080",
+   "seed": 10,
+   "surprise": 0.0004838535969611,
+   "rank": 94,
+   "percentile": 87,
+   "mean_speed": 2.3588934712952847,
+   "size_px": 313.5,
+   "clip": "clips/batch-000080.mp4"
+  },
+  {
+   "batch": "batch-000261",
+   "seed": 6,
+   "surprise": 0.0005511475610546,
+   "rank": 95,
+   "percentile": 88,
+   "mean_speed": 3.708424759190057,
+   "size_px": 205.5,
+   "clip": "clips/batch-000261.mp4"
+  },
+  {
+   "batch": "batch-000103",
+   "seed": 2,
+   "surprise": 0.0006467720959335,
+   "rank": 96,
+   "percentile": 89,
+   "mean_speed": 11.337666837266704,
+   "size_px": 235.0,
+   "clip": "clips/batch-000103.mp4"
+  },
+  {
+   "batch": "batch-000068",
+   "seed": 5,
+   "surprise": 0.0007097210618667,
+   "rank": 97,
+   "percentile": 90,
+   "mean_speed": 5.5590533104402535,
+   "size_px": 160.0,
+   "clip": "clips/batch-000068.mp4"
+  },
+  {
+   "batch": "batch-000254",
+   "seed": 9,
+   "surprise": 0.0008011730969883,
+   "rank": 98,
+   "percentile": 91,
+   "mean_speed": 16.847073644228864,
+   "size_px": 146.0,
+   "clip": "clips/batch-000254.mp4"
+  },
+  {
+   "batch": "batch-000121",
+   "seed": 10,
+   "surprise": 0.0008020843379199,
+   "rank": 99,
+   "percentile": 92,
+   "mean_speed": 10.498785635167607,
+   "size_px": 115.5,
+   "clip": "clips/batch-000121.mp4"
+  },
+  {
+   "batch": "batch-000227",
+   "seed": 1,
+   "surprise": 0.0009155948064289,
+   "rank": 100,
+   "percentile": 93,
+   "mean_speed": 19.314999821719923,
+   "size_px": 157.0,
+   "clip": "clips/batch-000227.mp4"
+  },
+  {
+   "batch": "batch-000099",
+   "seed": 3,
+   "surprise": 0.0009300805977545,
+   "rank": 101,
+   "percentile": 94,
+   "mean_speed": 3.8737898786434783,
+   "size_px": 273.0,
+   "clip": "clips/batch-000099.mp4"
+  },
+  {
+   "batch": "batch-000224",
+   "seed": 1,
+   "surprise": 0.0009936286369338,
+   "rank": 102,
+   "percentile": 94,
+   "mean_speed": 5.186744193039877,
+   "size_px": 263.0,
+   "clip": "clips/batch-000224.mp4"
+  },
+  {
+   "batch": "batch-000115",
+   "seed": 6,
+   "surprise": 0.0010836269939318,
+   "rank": 103,
+   "percentile": 95,
+   "mean_speed": 10.435350842254868,
+   "size_px": 219.0,
+   "clip": "clips/batch-000115.mp4"
+  },
+  {
+   "batch": "batch-000179",
+   "seed": 7,
+   "surprise": 0.0011904628481715,
+   "rank": 104,
+   "percentile": 96,
+   "mean_speed": 8.850615443692547,
+   "size_px": 239.75,
+   "clip": "clips/batch-000179.mp4"
+  },
+  {
+   "batch": "batch-000070",
+   "seed": 7,
+   "surprise": 0.001308013102971,
+   "rank": 105,
+   "percentile": 97,
+   "mean_speed": 9.705304270236994,
+   "size_px": 215.5,
+   "clip": "clips/batch-000070.mp4"
+  },
+  {
+   "batch": "batch-000173",
+   "seed": 4,
+   "surprise": 0.0013381958706304,
+   "rank": 106,
+   "percentile": 98,
+   "mean_speed": 3.359635612368672,
+   "size_px": 299.5,
+   "clip": "clips/batch-000173.mp4"
+  },
+  {
+   "batch": "batch-000174",
+   "seed": 3,
+   "surprise": 0.0019869126845151,
+   "rank": 107,
+   "percentile": 99,
+   "mean_speed": 11.907978477846582,
+   "size_px": 144.0,
+   "clip": "clips/batch-000174.mp4"
+  },
+  {
+   "batch": "batch-000191",
+   "seed": 8,
+   "surprise": 0.002136530354619,
+   "rank": 108,
+   "percentile": 100,
+   "mean_speed": 8.80827248552344,
+   "size_px": 208.5,
+   "clip": "clips/batch-000191.mp4"
+  }
+ ]
+}

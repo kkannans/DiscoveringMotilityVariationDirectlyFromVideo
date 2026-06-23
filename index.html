@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Organoid motility — prediction surprise explorer</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Discovering organoid motility variation directly from video</h1>
+  <p class="sub">
+    Each point is one of 108 organoids. The video-prediction model is trained <b>leave-some-out</b>
+    — across 10 splits, so every organoid is held out (in the test set) at least once — and
+    <b>prediction surprise</b> is how hard the model, trained on the rest of the population, finds
+    that held-out organoid's motion to predict. Click a point to watch its prediction versus
+    reality. High surprise = it moves unlike the rest.
+  </p>
+</header>
+
+<main>
+  <section id="left">
+    <h2>The population</h2>
+    <div id="scatter"></div>
+    <p class="hint">x: mean speed (px/frame) &nbsp;·&nbsp; y: prediction surprise (log) &nbsp;·&nbsp; colour: percentile</p>
+  </section>
+
+  <section id="right">
+    <h2 id="org-title">Select an organoid →</h2>
+    <p id="readout" class="readout"></p>
+    <div class="vidwrap">
+      <div class="vidlabels"><span>Ground truth</span><span>Model prediction</span><span>Prediction error</span></div>
+      <video id="vid" autoplay loop muted playsinline></video>
+    </div>
+    <div id="metrics" class="metrics"></div>
+  </section>
+</main>
+
+<footer>
+  Srinivasan, Bielawski, Blackiston, Levin, Bongard — ALife 2026.
+  Predictions precomputed (SimVP-TAU+R, held-out per organoid); no model runs in your browser.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
