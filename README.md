@@ -12,8 +12,20 @@ Artificial Life investigators are interested in new forms of life. One route to 
 
 [![Tracking validation](https://img.youtube.com/vi/xisRaTP1HE0/0.jpg)](https://youtu.be/xisRaTP1HE0)
 
-## Code
-Code and data will be released post review process.
+## Interactive explorer
+**[kkannans.github.io/DiscoveringMotilityVariationDirectlyFromVideo](https://kkannans.github.io/DiscoveringMotilityVariationDirectlyFromVideo/)**
+— click any of the 108 organoids to watch its model prediction versus ground truth and see how its
+prediction surprise compares to the population.
+
+## Code & reproduction
+- **[SETUP.md](SETUP.md)** — install and run the full pipeline (segmentation, training, prediction
+  surprise) for both the automated and classical methods.
+- **[REPRODUCIBILITY.md](REPRODUCIBILITY.md)** — regenerate every paper figure from the released
+  data, with the expected value for each.
+- Data (108 videos + model weights + cached artifacts): `python download_data.py`
+  (links in `data_manifest.json`).
+- Model architectures (SimVP-TAU, PredRNN) are pinned via the `OpenSTL` submodule
+  (`git submodule update --init`).
 
 ## Contact
 Krishna.Kannan-Srinivasan@uvm.edu

@@ -1,0 +1,11 @@
+{
+  "_comment": "Paste your Dropbox share links below. Change the trailing 'dl=0' to 'dl=1' (direct download). Run: python download_data.py",
+  "files": [
+    {"name": "dataset",   "url": "https://www.dropbox.com/scl/fi/9cgdzvklrsaf6vuaigg3o/dataset.tar.gz?rlkey=k8rlseerfkdupa4jtobwsw1u8&st=fd6zuzim&dl=1",   "size_mb": 107, "marker": "dataset/batch-000068.mp4"},
+    {"name": "weights",   "url": "https://www.dropbox.com/scl/fi/a584qkwctbjwasg1pdi1v/weights.tar.gz?rlkey=ewwc8kglk1sd2sy9869yz8wb0&st=d7h6zzky&dl=1",   "size_mb": 730, "marker": "outputs/models/SimVP_TAU_K6_N6_seed1_pre_residual/best_model.pth"},
+    {"name": "classical", "url": "https://www.dropbox.com/scl/fi/8acb5l5hy98w4tav5od2t/classical.tar.gz?rlkey=yc6gglagwpoyekvur57b7uxcz&st=8m9j49tz&dl=1", "size_mb": 2,   "marker": "outputs/classical_descriptors/centroid_trajectories.npz"},
+    {"name": "metrics",   "url": "https://www.dropbox.com/scl/fi/8yz0731j7thsmw8hv89xk/metrics.tar.gz?rlkey=ydrtmv4t7ilgxpdq9xg7m9hui&st=9vfqh3ae&dl=1",   "size_mb": 80,  "marker": "outputs/intermediates/per_organoid_summary.csv"}
+  ]
+}
+
+
